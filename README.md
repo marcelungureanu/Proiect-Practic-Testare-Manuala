@@ -1,4 +1,5 @@
 # Proiect-Practic-Testare-Manuala
+<h1>Final project for ITF Manual Testing Course</h1>
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and aplly them in practice, using a live application
 
 Application under test: [Application Name](https://www.google.com)
